@@ -5,8 +5,8 @@ Sometimes validating the user inputs in Swift gets messy, to gather all the vali
 [AmirReza](https://medium.com/@Ariobarxan)
 & 
 [Reza](https://github.com/rezakashkoul)
-)
-) came up with this solution!
+) 
+came up with this solution!
 
 To know more, please get the demo project.
 
