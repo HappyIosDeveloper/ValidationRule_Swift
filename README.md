@@ -2,7 +2,7 @@
 A simple demonstration of a validation helper in Swift language for all kinds of user input validations.
 
 Sometimes validating the user inputs in Swift gets messy, to gather all the validations in one place, me & my beloved colleagues (
-[AmirReza](https://github.com/rezakashkoul)
+[AmirReza](https://github.com/rezakashkoul](https://medium.com/@Ariobarxan)
 & 
 [Reza](https://github.com/rezakashkoul)
 )
