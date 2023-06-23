@@ -7,8 +7,8 @@ To know more, please get the demo project.
 
 Here is how we use it:
 
-![preview]([../main/myFolder/image.png](https://github.com/HappyIosDeveloper/ValidationRule_Swift/blob/main/preview1.png)https://github.com/HappyIosDeveloper/ValidationRule_Swift/blob/main/preview1.png)
+![preview](https://github.com/HappyIosDeveloper/ValidationRule_Swift/blob/main/preview1.png?raw=true)
 
 
-![preview]([../main/myFolder/image.png](https://github.com/HappyIosDeveloper/ValidationRule_Swift/blob/main/preview1.png)https://github.com/HappyIosDeveloper/ValidationRule_Swift/blob/main/preview2.png)
+![preview](https://github.com/HappyIosDeveloper/ValidationRule_Swift/blob/main/preview2.png?raw=true)
 
